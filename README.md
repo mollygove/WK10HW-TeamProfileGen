@@ -8,6 +8,7 @@ Because this application is not be deployed, a link is provided demonstrating it
 
 https://drive.google.com/file/d/1mYeqWvdE7EFnyvnGLHp35rtXb5aUGmYh/view
 https://drive.google.com/file/d/1TD4pHU1x8fyA9f7XXD5Ts0yCc5Op7lnW/view
+https://github.com/mollygove/WK10HW-TeamProfileGen
 
 
 # User Story
@@ -34,18 +35,6 @@ When the user runs the application they are prompted with a series of questions 
 - WHEN I decide to finish building my team
 - THEN I exit the application, and the HTML is generated
 
-### Walkthrough Video: 32%
-
-* A walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must show all four tests passing from the command line.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated HTML file that matches the user input.
-
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
@@ -53,18 +42,6 @@ When the user runs the application they are prompted with a series of questions 
   * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
   * Uses the [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains a high-quality readme with description and a link to a walkthrough video.
 
 ## Review
 

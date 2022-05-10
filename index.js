@@ -17,7 +17,7 @@ function startApp() {
 			{
 				name: 'startApp',
 				type: 'confirm',
-				message: 'Would you like to assemble a team?',
+				message: 'Put together your team',
 			},
 		])
 		.then((res, err) => {
@@ -325,7 +325,7 @@ function renderTeam() {
 			<div class="jumbotron text-center">
 				<div class="container">
 					<h1 class="display-2">Our Team</h1>
-					<h2>"Role call!"</h2>
+					<h2>"Not the Rat Pack"</h2>
 				</div>
 			</div>
 		</div>
