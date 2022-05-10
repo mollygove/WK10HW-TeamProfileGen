@@ -1,5 +1,5 @@
 {
-    "name": "TeamProfileGen",
+    "name": "TeamProfileGenerator",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -14,9 +14,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/anthonyapicella/teamProfileGenerator/issues"
+      "url": "https://github.com/mollygove/WK10HW-TeamProfileGen/issues"
     },
-    "homepage": "https://github.com/anthonyapicella/teamProfileGenerator#readme",
+    "homepage": "https://github.com/mollygove/WK10HW-TeamProfileGen/blob/main/README.md",
     "devDependencies": {
       "jest": "^26.6.3"
     },
