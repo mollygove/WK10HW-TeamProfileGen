@@ -6,10 +6,10 @@ I have built a Node.js command-line application that takes in information about 
 
 Because this application is not be deployed, a link is provided demonstrating its functionality and all of the tests passing. 
 
-https://drive.google.com/file/d/1mYeqWvdE7EFnyvnGLHp35rtXb5aUGmYh/view
-https://drive.google.com/file/d/1TD4pHU1x8fyA9f7XXD5Ts0yCc5Op7lnW/view
-https://github.com/mollygove/WK10HW-TeamProfileGen
-https://drive.google.com/file/d/1fAJlG1cuDigPAVWHFmK_NW9xe0mFhRIz/view
+- https://drive.google.com/file/d/1mYeqWvdE7EFnyvnGLHp35rtXb5aUGmYh/view
+- https://drive.google.com/file/d/1TD4pHU1x8fyA9f7XXD5Ts0yCc5Op7lnW/view
+- https://github.com/mollygove/WK10HW-TeamProfileGen
+- https://drive.google.com/file/d/1fAJlG1cuDigPAVWHFmK_NW9xe0mFhRIz/view
 
 
 # User Story
