@@ -9,6 +9,7 @@ Because this application is not be deployed, a link is provided demonstrating it
 https://drive.google.com/file/d/1mYeqWvdE7EFnyvnGLHp35rtXb5aUGmYh/view
 https://drive.google.com/file/d/1TD4pHU1x8fyA9f7XXD5Ts0yCc5Op7lnW/view
 https://github.com/mollygove/WK10HW-TeamProfileGen
+https://drive.google.com/file/d/1fAJlG1cuDigPAVWHFmK_NW9xe0mFhRIz/view
 
 
 # User Story
@@ -45,10 +46,4 @@ When the user runs the application they are prompted with a series of questions 
 
 ## Review
 
-You are required to submit the following for review:
-
-* A walkthrough video that demonstrates the functionality of the application and passing tests.
-
-* A sample HTML file generated using your application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+C:\Users\The Goves\bootcamp\homework\WK10HW-TeamProfileGen\dist\Landing Page.JPG
