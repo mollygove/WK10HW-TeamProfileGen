@@ -46,4 +46,4 @@ When the user runs the application they are prompted with a series of questions 
 
 ## Review
 
-C:\Users\The Goves\bootcamp\homework\WK10HW-TeamProfileGen\dist\Landing Page.JPG
+![Landing Page](./dist/Landing%20Page.JPG)
